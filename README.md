@@ -1,4 +1,5 @@
 # Stream: A Personalized Twitch Resources Recommendation Engine
+## Highlights:
 
 • Designed a full-stack Spring Boot application based on Java for users to search twitch resources (stream/video/clip)
 
