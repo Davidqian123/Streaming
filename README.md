@@ -1,4 +1,5 @@
 # Stream: A Personalized Twitch Resources Recommendation Engine
+
 ## Highlights:
 
 • Designed a full-stack Spring Boot application based on Java for users to search twitch resources (stream/video/clip)
@@ -11,3 +12,6 @@
 
 • Deployed to Amazon EC2 for better performance
 
+## Notes:
+
+• Replace the variables in Streaming/twitch/src/main/resources/application.yml
